@@ -87,16 +87,6 @@ Unity Cloud Services
 
 ---
 
-## Screenshots
-
-> Add gameplay screenshots here.
-
-| Gameplay | Leaderboard |
-|----------|-------------|
-| ![](images/gameplay.png) | ![](images/leaderboard.png) |
-
----
-
 ## Demo
 
 🎮 **Live Demo:** *(Add your link)*

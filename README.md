@@ -89,14 +89,14 @@ Unity Cloud Services
 
 ## Demo
 
-🎮 **Live Demo:** *(Add your link)*
+🎮 **Live Demo:** *([Download](https://emberlab.itch.io/squaredash))*
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Square-Dash-Mobile-Game.git
+git clone https://github.com/Mayank-Rana1/Square-Dash-Mobile-Game.git
 ```
 
 Open the project in Unity and build for Android.
